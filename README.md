@@ -6,3 +6,6 @@
 
 # The Code is split into a BackEnd and FrontEnd Folder
 # Both the BackEnd and FrontEnd aims to achieve all the goals set in the SRS logic wise, with AI being used to design the visual of the final browser
+
+# To start the BackEnd, open a new terminal, cd to the BackEnd folder and run "npm run dev"
+# To start the FrontEnd, open a new terminal, cd to the FrontkEnd folder and run "npm run dev"
